@@ -1,5 +1,5 @@
 # godot-tutorial
-Tutorial from www.braindead.bzh
 
+Repo para seguir el aprendizaje de godot:
 
-https://www.braindead.bzh/entry/creating-a-game-with-godot-engine-ep-2-project-organization
+http://docs.godotengine.org/en/stable/tutorials/step_by_step/_step_by_step.html

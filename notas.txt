@@ -1,0 +1,16 @@
+Segui el siguiente tutorial de GIT para configurar GITHUB
+
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+http://readwrite.com/2013/10/02/github-for-beginners-part-2/
+
+
+
+
+######################## ESTE TUTORIAL APESTO ##########################
+
+Tutorial from www.braindead.bzh
+
+Consideraciones + Setup del proyecto
+https://www.braindead.bzh/entry/creating-a-game-with-godot-engine-introduction
+https://www.braindead.bzh/entry/creating-a-game-with-godot-engine-ep-2-project-organization
+https://www.braindead.bzh/entry/creating-a-game-with-godot-engine-ep-3-general-considerations
