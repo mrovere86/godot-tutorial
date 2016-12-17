@@ -2,4 +2,4 @@
 Tutorial from www.braindead.bzh
 
 
-https://github.com/mrovere86/godot-tutorial.git
+https://www.braindead.bzh/entry/creating-a-game-with-godot-engine-ep-2-project-organization
